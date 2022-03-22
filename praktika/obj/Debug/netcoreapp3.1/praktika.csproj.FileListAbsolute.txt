@@ -3,3 +3,17 @@ C:\Users\tu4pw6wq5\source\repos\praktika\praktika\obj\Debug\netcoreapp3.1\prakti
 C:\Users\tu4pw6wq5\source\repos\praktika\praktika\obj\Debug\netcoreapp3.1\praktika.AssemblyInfoInputs.cache
 C:\Users\tu4pw6wq5\source\repos\praktika\praktika\obj\Debug\netcoreapp3.1\praktika.AssemblyInfo.cs
 C:\Users\tu4pw6wq5\source\repos\praktika\praktika\obj\Debug\netcoreapp3.1\praktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\123\praktika\bin\Debug\netcoreapp3.1\praktika.exe
+C:\Users\User\Desktop\123\praktika\bin\Debug\netcoreapp3.1\praktika.deps.json
+C:\Users\User\Desktop\123\praktika\bin\Debug\netcoreapp3.1\praktika.runtimeconfig.json
+C:\Users\User\Desktop\123\praktika\bin\Debug\netcoreapp3.1\praktika.runtimeconfig.dev.json
+C:\Users\User\Desktop\123\praktika\bin\Debug\netcoreapp3.1\praktika.dll
+C:\Users\User\Desktop\123\praktika\bin\Debug\netcoreapp3.1\praktika.pdb
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.AssemblyInfo.cs
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.dll
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.pdb
+C:\Users\User\Desktop\123\praktika\obj\Debug\netcoreapp3.1\praktika.genruntimeconfig.cache
