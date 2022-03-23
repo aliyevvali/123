@@ -7,6 +7,7 @@ namespace praktika
     {
         static void Main(string[] args)
         {
+            
             //Emplayer emplayer = new Emplayer(5,8,"Kamil","Abdullayev",20);
             //Student student = new Student("a","v",20,70,60);
             Console.WriteLine("1- Emplayer \n2- Student");
