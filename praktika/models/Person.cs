@@ -4,7 +4,7 @@ using System.Text;
 
 namespace praktika.models
 {
-    abstract class  Person
+    class  Person
     {
         public string Name { get; set; }
         public string Surname { get; set; }
